@@ -1,0 +1,26 @@
+#inicio {
+  background-color: darkolivegreen;
+}
+
+#trammites {
+  background-color: rgb(35, 136, 136);
+}
+
+#formulario {
+  background-color: black;
+  color: white;
+  display: block;
+}
+
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h3 {
+  color: cadetblue;
+}
+
+header li {
+  display: inline;
+  margin: 20px;
+}
