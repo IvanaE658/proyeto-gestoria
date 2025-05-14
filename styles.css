@@ -30,6 +30,7 @@ button:hover {
 }
 
 section {
-  border: 5px, solid, blueviolet;
-
+  border-top: solid;
+  border-color: rgb(161, 224, 14);
+  border-width: 20px;
 }
